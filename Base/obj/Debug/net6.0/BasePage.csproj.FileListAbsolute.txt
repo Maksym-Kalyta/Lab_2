@@ -1,0 +1,45 @@
+C:\Users\Pavlo\source\repos\Lab_2\Base\obj\Debug\net6.0\BasePage.csproj.AssemblyReference.cache
+C:\Users\Pavlo\source\repos\Lab_2\Base\obj\Debug\net6.0\BasePage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavlo\source\repos\Lab_2\Base\obj\Debug\net6.0\BasePage.AssemblyInfoInputs.cache
+C:\Users\Pavlo\source\repos\Lab_2\Base\obj\Debug\net6.0\BasePage.AssemblyInfo.cs
+C:\Users\Pavlo\source\repos\Lab_2\Base\obj\Debug\net6.0\BasePage.csproj.CoreCompileInputs.cache
+C:\Users\Pavlo\source\repos\Lab_2\Base\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Pavlo\source\repos\Lab_2\Base\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Pavlo\source\repos\Lab_2\Base\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Pavlo\source\repos\Lab_2\Base\bin\Debug\net6.0\BasePage.deps.json
+C:\Users\Pavlo\source\repos\Lab_2\Base\bin\Debug\net6.0\BasePage.dll
+C:\Users\Pavlo\source\repos\Lab_2\Base\bin\Debug\net6.0\BasePage.pdb
+C:\Users\Pavlo\source\repos\Lab_2\Base\obj\Debug\net6.0\BasePage.dll
+C:\Users\Pavlo\source\repos\Lab_2\Base\obj\Debug\net6.0\refint\BasePage.dll
+C:\Users\Pavlo\source\repos\Lab_2\Base\obj\Debug\net6.0\BasePage.pdb
+C:\Users\Pavlo\source\repos\Lab_2\Base\obj\Debug\net6.0\ref\BasePage.dll
+C:\Users\Pavlo\OneDrive\Робочий стіл\Lab_2\Base\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Pavlo\OneDrive\Робочий стіл\Lab_2\Base\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Pavlo\OneDrive\Робочий стіл\Lab_2\Base\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Pavlo\OneDrive\Робочий стіл\Lab_2\Base\bin\Debug\net6.0\BasePage.deps.json
+C:\Users\Pavlo\OneDrive\Робочий стіл\Lab_2\Base\bin\Debug\net6.0\BasePage.dll
+C:\Users\Pavlo\OneDrive\Робочий стіл\Lab_2\Base\bin\Debug\net6.0\BasePage.pdb
+C:\Users\Pavlo\OneDrive\Робочий стіл\Lab_2\Base\obj\Debug\net6.0\BasePage.csproj.AssemblyReference.cache
+C:\Users\Pavlo\OneDrive\Робочий стіл\Lab_2\Base\obj\Debug\net6.0\BasePage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavlo\OneDrive\Робочий стіл\Lab_2\Base\obj\Debug\net6.0\BasePage.AssemblyInfoInputs.cache
+C:\Users\Pavlo\OneDrive\Робочий стіл\Lab_2\Base\obj\Debug\net6.0\BasePage.AssemblyInfo.cs
+C:\Users\Pavlo\OneDrive\Робочий стіл\Lab_2\Base\obj\Debug\net6.0\BasePage.csproj.CoreCompileInputs.cache
+C:\Users\Pavlo\OneDrive\Робочий стіл\Lab_2\Base\obj\Debug\net6.0\BasePage.dll
+C:\Users\Pavlo\OneDrive\Робочий стіл\Lab_2\Base\obj\Debug\net6.0\refint\BasePage.dll
+C:\Users\Pavlo\OneDrive\Робочий стіл\Lab_2\Base\obj\Debug\net6.0\BasePage.pdb
+C:\Users\Pavlo\OneDrive\Робочий стіл\Lab_2\Base\obj\Debug\net6.0\ref\BasePage.dll
+C:\Users\Саша\Desktop\Lab_2\Base\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Саша\Desktop\Lab_2\Base\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Саша\Desktop\Lab_2\Base\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Саша\Desktop\Lab_2\Base\bin\Debug\net6.0\BasePage.deps.json
+C:\Users\Саша\Desktop\Lab_2\Base\bin\Debug\net6.0\BasePage.dll
+C:\Users\Саша\Desktop\Lab_2\Base\bin\Debug\net6.0\BasePage.pdb
+C:\Users\Саша\Desktop\Lab_2\Base\obj\Debug\net6.0\BasePage.csproj.AssemblyReference.cache
+C:\Users\Саша\Desktop\Lab_2\Base\obj\Debug\net6.0\BasePage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\Desktop\Lab_2\Base\obj\Debug\net6.0\BasePage.AssemblyInfoInputs.cache
+C:\Users\Саша\Desktop\Lab_2\Base\obj\Debug\net6.0\BasePage.AssemblyInfo.cs
+C:\Users\Саша\Desktop\Lab_2\Base\obj\Debug\net6.0\BasePage.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\Lab_2\Base\obj\Debug\net6.0\BasePage.dll
+C:\Users\Саша\Desktop\Lab_2\Base\obj\Debug\net6.0\refint\BasePage.dll
+C:\Users\Саша\Desktop\Lab_2\Base\obj\Debug\net6.0\BasePage.pdb
+C:\Users\Саша\Desktop\Lab_2\Base\obj\Debug\net6.0\ref\BasePage.dll
